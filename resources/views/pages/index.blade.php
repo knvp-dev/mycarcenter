@@ -53,7 +53,7 @@
 			<img src="/images/brug.png" alt="Brug">
 			<span>
 				4 Bruggen voor 
-				deverse herstellingen
+				diverse herstellingen
 			</span>
 		</div>
 
@@ -107,14 +107,14 @@
 
 <section class="section grey-section">
 	<div class="container">
-		<h1 class="title has-text-centered">CAROSSERIE</h1>
+		<h1 class="title has-text-centered">CARROSSERIE</h1>
 	</div>
 </section>
 
 <section class="section">
 	<div class="container has-text-centered">
 		<img src="/images/carosserie.png" alt="" class="mb-40">
-		<p>Voor uw carosserie herstellingen kunt u ook bij ons terecht. Wij werken met erkende carosserie herstellers</p>
+		<p>Voor uw carrosserie herstellingen kunt u ook bij ons terecht. Wij werken met erkende carrosserie herstellers</p>
 	</div>
 </section>
 
