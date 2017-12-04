@@ -33,7 +33,7 @@ const app = new Vue({
   			{ id: 1, src: '/images/slider/1.jpg', title: 'image 1', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, a excepturi fugiat nihil in deserunt, natus possimus est atque rem incidunt soluta. Itaque quis dolor perspiciatis natus vel, voluptate possimus.', url: '/' },
   			{ id: 2, src: '/images/slider/2.jpg', title: 'image 2', description: 'this is the second image', url: null },
   			{ id: 3, src: '/images/slider/3.jpg', title: 'image 3', description: 'this is the third image', url: null },
-  			{ id: 4, src: '/images/slider/4.jpg', title: 'image 4', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus suscipit quaerat porro fuga ab incidunt eos magnam, soluta aut reiciendis placeat, nostrum repellendus earum assumenda expedita nisi, obcaecati excepturi itaque!', url: '/' }
+  			{ id: 4, src: '/images/slider/4.JPG', title: 'image 4', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus suscipit quaerat porro fuga ab incidunt eos magnam, soluta aut reiciendis placeat, nostrum repellendus earum assumenda expedita nisi, obcaecati excepturi itaque!', url: '/' }
   		],
       showMobileMenu: false
     },
