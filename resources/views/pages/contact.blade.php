@@ -31,9 +31,10 @@
 			<div class="column">
 				<ul> 
 					<li>info@mycarcenter.be</li>
-					<li>Tel:051/30 89 39</li>
-					<li>Fax:051/320255</li>
-					<li>GSM :0475/744998</li>
+					<li>Tel: 051/30 89 39</li>
+					<li>Fax: 051/32 02 55</li>
+					<li>GSM: 0475/74 49 98</li>
+					<li>BTW: BE0458261949</li>
 				</ul>
 			</div>
 
