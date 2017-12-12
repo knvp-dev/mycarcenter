@@ -54,16 +54,16 @@
 
 			<div class="column">
 				<ul>
-					<li>IBAN Fortis:BE27 0013 7241 1873</li>
-					<li>BIC Fortis:BIC GEBABEBB</li>
+					<li>IBAN Fortis: BE27 0013 7241 1873</li>
+					<li>BIC Fortis: BIC GEBABEBB</li>
 				</ul>
 			</div>
 
 			<div class="column">
 
 				<ul> 
-					<li>IBAN KBC :BE59 7386 0316 5826</li>
-					<li>BIC KBC :KREDBEBB</li>
+					<li>IBAN KBC: BE59 7386 0316 5826</li>
+					<li>BIC KBC: KREDBEBB</li>
 				</ul>
 			</div>
 
