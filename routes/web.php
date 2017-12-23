@@ -17,7 +17,7 @@ Route::get('/', function () {
 
 Route::get('/aanbod', function() {
 	$client = new \GuzzleHttp\Client();
-	$res = $client->get("http://verkopers.autoscout24.be/get/tierarticles?atype=C&cid=7647&ustate=U,N,A&sort=price&results=200&page=1&_=1491929889663");
+	$res = $client->get("http://verkopers.autoscout24.be/get/tierarticles?atype=C&cid=7647&ustate=U,N,A&sort=price&results=50");
 
 	$articles = collect(json_decode($res->getBody()))['articles'];
 
